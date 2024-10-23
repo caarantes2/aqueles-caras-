@@ -1,0 +1,47 @@
+html, body {
+  background-color: #F3F3F3;
+    color: rgb(0,0,0);
+  margin: 2px;
+  margin-bottom: 30px;
+  font-family: "Inter", sans-serif;
+  }
+
+header{
+  color: blue;
+   font-size: 80px;
+  border-bottom: solid 2px blue;
+  display: flex;
+  position: relative;
+  margin: 20px;
+  padding: 0px;
+   font-family: "Bebas Neue", system-ui;
+}
+
+.inicio{
+  background: #03A9F4;
+    margin: 20px;
+  padding:20px;
+  display: flex;
+  font-size: 30px;
+   border-radius: 80px;
+  box-shadow: 2px 5px 5px gray;
+}
+
+p{
+  text-align: justify;
+}
+
+.video{
+  margin-right: 50px;
+}
+
+.logo{
+height: 100px;
+  position: relative;
+ margin-left:700px;
+}
+
+.batata{
+  margin: 50px;
+  align-content: center;
+}
